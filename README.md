@@ -1,13 +1,24 @@
+
+# PracticeLowLevelDesign
+
 This repository contains implementations of various Low-Level Design (LLD) problems using Java. It’s aimed at helping software engineers practice object-oriented design and understand key design patterns.
 
-📁 Structure
-Java code organized under src/main/java/org/example
+---
 
-Each folder focuses on a specific design pattern or system
+## 📁 Project Structure
 
-✨ Highlights
-SOLID Principles
+Java source code is organized under:
 
-Design Patterns (Singleton, Factory, Observer, etc.)
+```
+src/main/java/org/example
+```
 
-System Design Practice
+Each sub-package focuses on a specific design pattern or system design use case, making it easy to explore and understand individual concepts.
+
+---
+
+## ✨ Highlights
+
+- ✅ **SOLID Principles**  
+- 🧰 **Design Patterns** (e.g., Singleton, Factory, Observer, etc.)  
+- 🏗️ **System Design Practice** through real-world examples
